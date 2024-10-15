@@ -1,3 +1,3 @@
 print('Hello')
 
-print('conflict from master')
+print('conflict')
